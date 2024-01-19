@@ -1,4 +1,3 @@
-module load igmm/apps/R/3.6.0
 library(ggplot2)
 len=read.table("str.length",head=F)
 result=read.table("simulation.estimation_count.results",head=F)
